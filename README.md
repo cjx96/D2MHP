@@ -1,6 +1,6 @@
 # Disentangled Deep MHP
 
-The implementation of our ICDM-21 submission "Disentangled Deep Multivariate Hawkes Process".
+The implementation of our ICDM-21 paper "Disentangled Deep Multivariate Hawkes Process".
 
 ## Requirements
 
